@@ -6,6 +6,11 @@
     <title>Buurtkamner3D</title>
 </head>
 <body>
-    
+    <!-- header
+            naam
+            Logo 
+            paginas
+            -->
+            
 </body>
 </html>
